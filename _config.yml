@@ -1,5 +1,5 @@
-title: "Michael Shoemaker — Data Engineering"
-description: "Production-like data engineering builds, explained clearly."
+title: "Alexssandro Santos — Data Engineering"
+description: "Data Science and Data Engineering assets and projects"
 baseurl: ""
 url: ""
 markdown: kramdown
@@ -9,9 +9,9 @@ defaults:
   - scope: { path: "" }
     values:
       layout: default
-author: "Michael Shoemaker"
-github_username: "MichaelShoemaker"
-youtube_channel: "@dataslinger6379"
-medium_username: "dataslinger"
+author: "Alexssandro Santos"
+github_username: "alexssandroos"
+youtube_channel: "alexssandroos"
+medium_username: "alexssandroos"
 exclude:
   - "README.md"
