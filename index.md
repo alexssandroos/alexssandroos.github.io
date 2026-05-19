@@ -29,7 +29,7 @@ title: "Home"
       <h1>Hello World! I'm Alexssandro Santos</h1>
       <p>Senior Data Analyst | Data Engineer | Analytics Engineer </p>
       <p>Data specialist, working since 2012 on projects in Data Engineering, Data Science, and Machine Learning. During this period, working on projects that reduced costs, optimized time spent on internal processes, and enabled increased profits..</p>
-      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP · Databricks </p>
 
       <p class="social-links">
         <a href="https://www.linkedin.com/in/alexssandroos" target="_blank" aria-label="LinkedIn">
@@ -100,7 +100,7 @@ title: "Home"
   {% endif %}
 </section>
 
-<!-- ===================== Videos ===================== -->
+<!-- ===================== Videos ===================== 
 <section id="videos" class="section">
   <div class="section-header">
     <h2>🎥 Videos</h2>
@@ -154,6 +154,7 @@ title: "Home"
     </div>
   {% endif %}
 </section>
+--> 
 
 <!-- ===================== Articles ===================== -->
 <section id="articles" class="section">
