@@ -21,22 +21,22 @@ title: "Home"
 
 <section id="about" class="section">
   <div class="about-container">
-    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
-         alt="Michael Shoemaker"
+    <img src="{{ '/assets/images/me.png' | relative_url }}"
+         alt="Alexssandro Santos"
          class="profile-pic">
 
     <div class="about-text">
-      <h1>Hello World! I'm Michael Shoemaker</h1>
-      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
+      <h1>Hello World! I'm Alexssandro Santos</h1>
+      <p>Senior Data Analyst | Data Engineer | Analytics Engineer </p>
+      <p>Data specialist, working since 2012 on projects in Data Engineering, Data Science, and Machine Learning. During this period, working on projects that reduced costs, optimized time spent on internal processes, and enabled increased profits..</p>
       <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/alexssandroos" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
-        <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
-          <i class="fa-brands fa-youtube"></i>
+        <a href="https://github.com/alexssandroos" target="_blank" aria-label="Github">
+          <i class="fa-brands fa-github"></i>
         </a>
       </p>
     </div>
