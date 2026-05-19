@@ -38,6 +38,9 @@ title: "Home"
         <a href="https://github.com/alexssandroos" target="_blank" aria-label="Github">
           <i class="fa-brands fa-github"></i>
         </a>
+         <a href="https://alexssandroos.github.io/blog" target="_blank" aria-label="Personal Blog">
+          <i class="fa-brands fa-readme"></i>
+        </a>  
       </p>
     </div>
   </div>
